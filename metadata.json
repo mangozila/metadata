@@ -1,7 +1,7 @@
 {                                                                                                                    
-  "name": "Test operator",                                                                                           
+  "name": "Mangozila",                                                                                           
   "website": "https://goerli.eigenlayer.xyz/operator",                                                               
-  "description": "I am operating EigenNode",                                                                         
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1280px-Flag_of_Vietnam.svg.png"
+  "description": "Vietnamese Solo Node operator",                                                                         
+  "logo": "https://static.wikia.nocookie.net/vsbattles/images/0/04/025Pikachu_XY_anime_4.png/revision/latest?cb=20180310153929"
   "twitter": "https://twitter.com/froggen1998"                                                                       
 }       
